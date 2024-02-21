@@ -18,12 +18,6 @@ class ViewController: UIViewController {
         print("Hi 1")
         print("Hi 1")
         print("Hi 1")
-
-        print("Hi22222")
-        print("Hi22222")
-        print("Hi22222")
-        print("Hi22222")
-        print("Hi22222")
     }
 
 
